@@ -9,7 +9,7 @@
 ### ✨ Sobre mim
 
 - 🎓 Cursando **Sistemas de Informação**
-- 🔧 Estudando **linguagem C**, algoritmos e estruturas de dados
+- 🔧 Estudando **linguagem C e python**, algoritmos e estruturas de dados
 - 🧠 Buscando aprender de forma prática e construir bons fundamentos
 - 🌱 Interesse em: desenvolvimento de software, lógica de programação, sistemas operacionais
 
